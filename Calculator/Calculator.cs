@@ -8,7 +8,7 @@ namespace Calculator
 {
     class Calculator
     {
-        public int Add(int a, int b)
+        virtual public int Add(int a, int b)
         {
             return a + b;
         }
