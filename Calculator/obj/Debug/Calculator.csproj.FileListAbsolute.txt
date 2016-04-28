@@ -1,1 +1,2 @@
 C:\Users\bojan.m.popovic\Documents\CalculatorInheritance\Calculator\bin\Debug\Calculator.exe.config
+E:\Code\Projects\CalculatorInheritance\Calculator\bin\Debug\Calculator.exe.config
