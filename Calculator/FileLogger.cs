@@ -9,11 +9,12 @@ namespace Calculator
 {
     class FileLogger : Calculator
     {
-        private Calculator calc = new Calculator();
-            int Add(int a, int b)
-            {
-                Console.WriteLine("Logging in file");
-                return calc.Add(a,b);
-            }
+        override public int Add(int a, int b)
+        {
+            Console.WriteLine("Logging in file");
+            int res = base.Add(5, 6);
+            Console.WriteLine("Result is: ", res);
+            return res;
+        }
     }
 }
