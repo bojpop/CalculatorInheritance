@@ -8,7 +8,6 @@ namespace Calculator
 {
     class ConsoleLogger : Calculator
     {
-        private Calculator calc = new Calculator();
         override public int Add(int a, int b)
         {
             Console.WriteLine("Logging in console");

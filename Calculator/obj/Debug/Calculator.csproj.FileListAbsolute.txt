@@ -1,2 +1,7 @@
 C:\Users\bojan.m.popovic\Documents\CalculatorInheritance\Calculator\bin\Debug\Calculator.exe.config
 E:\Code\Projects\CalculatorInheritance\Calculator\bin\Debug\Calculator.exe.config
+E:\Code\Projects\CalculatorInheritance\Calculator\bin\Debug\Calculator.exe
+E:\Code\Projects\CalculatorInheritance\Calculator\bin\Debug\Calculator.pdb
+E:\Code\Projects\CalculatorInheritance\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\Code\Projects\CalculatorInheritance\Calculator\obj\Debug\Calculator.exe
+E:\Code\Projects\CalculatorInheritance\Calculator\obj\Debug\Calculator.pdb
